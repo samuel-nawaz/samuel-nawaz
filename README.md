@@ -1,0 +1,26 @@
+### Hi there 👋
+
+<!--
+**samuel-nawaz/samuel-nawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+You can interpret user needs by following the information from the product owner. 
+User Stories are stories related to how a user should expect the project to work. User stories work as a blueprint to ensure we are giving the customer exactly what they want.
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+Developing programs start with an outline from the product owner, and which has been agreed on by the Scrum team. 
+After the outline is agreed upon, the developer can decide on an agile process to utilize including: waterfall, agile, iterative, prototype, etc.
+What does it mean to be a good team member in software development?
+To be a good team member one must be able to comminicate effectively. Good team members ensure there work is done correctly and on time so as not to delay the team.
+Good team members get along well with other members of the team and remain highly motivated. Good team members work well without constant supervision and gratification.
